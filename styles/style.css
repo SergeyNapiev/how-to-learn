@@ -107,7 +107,7 @@
 }
 
 .two-collums__main-text {
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   margin: 0;
   row-gap: 30px;
@@ -184,7 +184,7 @@ justify-content: center;  /*выравниваем по ценру*/
 }
 
 .feynman {
-  background-color: #f2f2f2 ;
+  background-color: #f2f2f2;
   position: relative;
   height: 890px;
 }
@@ -323,7 +323,7 @@ justify-content: center;  /*выравниваем по ценру*/
 }
 
 .footer__column-link_theme_dark {
-  color: white
+  color: white;
 }
 
 .footer__social {
@@ -340,10 +340,6 @@ justify-content: center;  /*выравниваем по ценру*/
   font-size: 18px;
   line-height: 30px;
   font-weight: 600;
-}
-
-.footer__social-icon_theme_dark {
-  color: white;
 }
 
 .footer__column-link_margin_down {
