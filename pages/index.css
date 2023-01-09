@@ -32,7 +32,7 @@
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
-@import url(../blocks/margin_digits_top_cell/margin_digits_top_cell.css);
+@import url(../blocks/table/__cell/_margin/table__cell_margin_top.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/section-title/section-title.css);
@@ -60,7 +60,7 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
-@import url(../blocks/margin_iframe_first_video/margin_iframe_first_video.css);
+@import url(../blocks/video/__iframe/_margin/video__iframe_margin_right.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
